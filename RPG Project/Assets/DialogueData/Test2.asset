@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac33bbcc00d9afa409567afdb412c246, type: 3}
+  m_Name: Test2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - All right! Now that you've got some gear try fighting that enemy over there.
+    Press the interact button(right click) to interact with it and attack.
+  responses:
+  - responseText: Ok
+    dialogueObject: {fileID: 11400000, guid: d49c4b97c64fa3949bad5fb9515ef13a, type: 2}
+    hasDialogue: 0
+  - responseText: Do I have to?
+    dialogueObject: {fileID: 11400000, guid: 5d2d8980ec3cb144d85610173536ad6e, type: 2}
+    hasDialogue: 0

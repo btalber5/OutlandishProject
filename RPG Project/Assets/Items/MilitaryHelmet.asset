@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5c8b97b2abb1d429a634646d76262c, type: 3}
+  m_Name: MilitaryHelmet
+  m_EditorClassIdentifier: 
+  name: Iron Helm
+  icon: {fileID: 0}
+  isDefaultItem: 0
+  itemWeight: 25
+  equipSlot: 0
+  mesh: {fileID: 7685144102539285359, guid: 5228e9346a1ea0f49bcc8bdbdef62fec, type: 3}
+  armour: 20
+  damage: 0
